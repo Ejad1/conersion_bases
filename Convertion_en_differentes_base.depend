@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672432711 source:e:\fichiers\programmation\c\convertion_en_differentes_base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
